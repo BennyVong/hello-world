@@ -4,7 +4,8 @@
   "description": "",
   "main": "App_8.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "App_8.js"
   },
   "author": "",
   "license": "ISC",
